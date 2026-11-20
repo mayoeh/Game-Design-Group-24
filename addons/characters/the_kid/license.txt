@@ -1,0 +1,11 @@
+Model Information:
+* title:	captured child/female
+* source:	https://sketchfab.com/3d-models/captured-childfemale-19ddf7ef3d19407f8d82ff95ee84e205
+* author:	Gavin bou (https://sketchfab.com/GavinBou)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "captured child/female" (https://sketchfab.com/3d-models/captured-childfemale-19ddf7ef3d19407f8d82ff95ee84e205) by Gavin bou (https://sketchfab.com/GavinBou) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
